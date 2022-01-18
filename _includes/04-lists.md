@@ -1,5 +1,3 @@
-Replace this with a list of your favorite things.
-
 In a random order, I like:
 * Reading:
   *   Geralt of Rivia
