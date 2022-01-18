@@ -4,7 +4,7 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
 
 ## Coding Skills:
 
-1. **C++**
+1. _C++_
 2. **Python**
 3. HTML
 4. CSS
