@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hello and Welcome !
+## My name is Jorge 
+#### I'm relearning how to use GitHub
